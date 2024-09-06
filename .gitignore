@@ -1,2 +1,12 @@
+# 3rd Party Libraries
 node_modules
+
+# Ignore bundled files
+public/index.js
+public/index.js.map
+public/index.css
+public/index.css.map
+
+# OS Files
 .DS_Store
+Thumbs.db
