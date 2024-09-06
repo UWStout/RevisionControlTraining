@@ -1,0 +1,51 @@
+{
+  "name": "revisioncontroltraining",
+  "version": "0.1.0",
+  "description": "A simple project for teaching revision control concepts.",
+  "main": "public/index.html",
+  "type": "module",
+  "scripts": {
+    "client": "node bundle.js",
+    "client:dev": "node bundle.js dev",
+    "client:devServer": "node bundle.js dev serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "prettier": {
+    "editorconfig": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UWStout/RevisionControlTraining.git"
+  },
+  "keywords": [
+    "Teaching",
+    "revision",
+    "control",
+    "students",
+    "learning"
+  ],
+  "author": "Seth Berrier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UWStout/RevisionControlTraining/issues"
+  },
+  "homepage": "https://github.com/UWStout/RevisionControlTraining#readme",
+  "devDependencies": {
+    "esbuild": "^0.23.1",
+    "eslint": "^8.57.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.30.0",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.6.0",
+    "eslint-plugin-react": "^7.35.2",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "@pmndrs/branding": "^0.0.8",
+    "@react-three/drei": "^9.112.0",
+    "@react-three/fiber": "^8.17.6",
+    "@react-three/postprocessing": "^2.16.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../client/styles.css"],
+  "sourcesContent": ["@import url('https://rsms.me/inter/inter.css');\n\n@font-face {\n  font-family: 'Meslo';\n  src: url('./fonts/MesloLGS-NF-Regular.woff2') format('woff2');\n  font-weight: normal;\n  font-style: normal;\n  font-display: swap;\n}\n\n* {\n  box-sizing: border-box;\n}\n\nhtml,\nbody,\n#root,\n.container {\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  background: white;\n  color: black;\n  font-family: 'Inter';\n}\n\na {\n  color: black;\n}\n\na {\n  pointer-events: all;\n  color: black;\n  text-decoration: none;\n}\n\nsvg {\n  fill: black;\n}\n\n@keyframes fade-in {\n  from {\n    opacity: 0;\n  }\n  to {\n    opacity: 1;\n  }\n}\n\ncanvas {\n  opacity: 0;\n  touch-action: none;\n  animation: fade-in 5s ease 0.5s forwards;\n}\n"],
+  "mappings": ";;;AAEA;AACE,eAAa;AACb,OAAK,uCAAyC,OAAO;AACrD,eAAa;AACb,cAAY;AACZ,gBAAc;AAChB;AAEA;AACE,cAAY;AACd;AAEA;AACA;AACA,CAAC;AACD,CAAC;AACC,SAAO;AACP,UAAQ;AACR,UAAQ;AACR,WAAS;AACX;AAEA;AACE,cAAY;AACZ,SAAO;AACP,eAAa;AACf;AAEA;AACE,SAAO;AACT;AAEA;AACE,kBAAgB;AAChB,SAAO;AACP,mBAAiB;AACnB;AAEA;AACE,QAAM;AACR;AAEA,WAAW;AACT;AACE,aAAS;AACX;AACA;AACE,aAAS;AACX;AACF;AAEA;AACE,WAAS;AACT,gBAAc;AACd,aAAW,QAAQ,GAAG,KAAK,KAAK;AAClC;",
+  "names": []
+}
