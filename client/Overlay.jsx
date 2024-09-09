@@ -10,6 +10,8 @@ export default function Overlay () {
         pmnd.rs
         <br />
         dev collective
+        <br />
+        Mike is the coolest ever
       </a>
       <div style={{ position: 'absolute', top: 40, left: 40, fontSize: '13px', fontFamily: 'Meslo', lineHeight: '1.6em', whiteSpace: 'pre' }}>
         &gt; npx gltfjsx model.glb --transform --simplify
