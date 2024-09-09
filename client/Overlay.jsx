@@ -25,6 +25,7 @@ export default function Overlay () {
       </div>
       <div style={{ position: 'absolute', bottom: 40, right: 40, fontSize: '13px' }}>UWStout - 9/6/2024</div>
       <p>This change was written by Luke M</p>
+      <p>Joe O was here</p>
       <p>Drake wuz here</p>
     </div>
   )
