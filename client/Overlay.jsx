@@ -13,6 +13,7 @@ export default function Overlay () {
         <br />
         Mike is the coolest ever
       </a>
+      <p>This is Tyler's edit</p>
       <div style={{ position: 'absolute', top: 40, left: 40, fontSize: '13px', fontFamily: 'Meslo', lineHeight: '1.6em', whiteSpace: 'pre' }}>
         &gt; npx gltfjsx model.glb --transform --simplify
         <br />
