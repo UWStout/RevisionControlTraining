@@ -19,6 +19,8 @@ export default function Overlay () {
         {'-rw-r--r-- 1 ph  94M model.glb'}
         <br />
         {'-rw-r--r-- 1 ph 406K model-transformed.glb'}
+        <br />
+        {'VeryBadScav'}
       </div>
       <div style={{ position: 'absolute', bottom: 40, right: 40, fontSize: '13px' }}>UWStout - 9/6/2024</div>
     </div>
