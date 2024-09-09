@@ -11,12 +11,12 @@ export default function Overlay () {
         <br />
         dev collective
         <br />
-        Mike is the coolest ever
       </a>
       <div style={{ position: 'absolute', top: 40, left: 40, fontSize: '13px', fontFamily: 'Meslo', lineHeight: '1.6em', whiteSpace: 'pre' }}>
         &gt; npx gltfjsx model.glb --transform --simplify
         <br />
         &gt; ll
+        break deez nuts
         <br />
         {'-rw-r--r-- 1 ph  94M model.glb'}
         <br />
@@ -26,6 +26,7 @@ export default function Overlay () {
       </div>
       <div style={{ position: 'absolute', bottom: 40, right: 40, fontSize: '13px' }}>UWStout - 9/6/2024</div>
       <p>This change was written by Luke M</p>
+      <p>Joe O was here</p>
       <p>Drake wuz here</p>
       <p>Hello from Zach!</p>
     </div>
