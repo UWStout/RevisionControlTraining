@@ -38,7 +38,7 @@ export default function App () {
         <Kamdo rotation={[0, Math.PI, 0]} />
 
          {/* Render the text */}
-        <CircleText scale={2.0} fontSize={0.667} />
+        {/* <CircleText scale={2.0} fontSize={0.667} /> */}
       </Stage>
 
       {/* Render a regular grid as the floor */}
