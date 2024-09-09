@@ -15,6 +15,7 @@ export default function Overlay () {
         &gt; npx gltfjsx model.glb --transform --simplify
         <br />
         &gt; ll
+        I want to break it
         <br />
         {'-rw-r--r-- 1 ph  94M model.glb'}
         <br />
